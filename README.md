@@ -15,6 +15,7 @@ __________________________________________________________________________
 
 ### RNA_seq-analysis
 ```Deseq2_analysis_up_down.R```: This is for differential gene expression analysis
+
 ```Rif_OOOO_TFs.R```: This is for regulatory impact factor analysis
 
 ### Acknowledgement
